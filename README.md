@@ -45,7 +45,7 @@ Pikachu Classic is a lightweight 2D puzzle game focused on quick pattern recogni
 ## Installation
 
 1. Clone the repository:
-   - `git clone <your-repo-url>`
+   - `git clone [<your-repo-url>](https://github.com/Thangnoob/Classic-Link-Puzzles_Pikachu-classic-clone.git)`
 2. Open the project with Unity **2022.3.62f1**.
 3. Open `Assets/Scenes/MainMenuScene.unity`.
 4. Press **Play**.
